@@ -1,2 +1,2 @@
 # JS
-Estudo sobre Java Script
+Estudo sobre Javascript
